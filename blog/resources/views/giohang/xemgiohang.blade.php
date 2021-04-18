@@ -83,7 +83,7 @@ foreach ($giohang as $key => $value)
 </div>
 <div id="wrapper">
   <a href="/">
-    <button id="">Trở về trang chính</button>
+    <button class="buttonmoi">Trở về trang chính</button>
   </a>
 </div>
 </body>

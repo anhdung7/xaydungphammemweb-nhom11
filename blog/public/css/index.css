@@ -333,6 +333,19 @@ ul li
     background:#fd7e14;
     border:1px solid #aea8a8;
 }
+.buttonmoi
+{
+  background-color: Indigo;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 #right-content
 {
     width:200px;
